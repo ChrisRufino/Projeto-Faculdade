@@ -6,18 +6,20 @@
 
 :root {
   font-size: 62.5%;
-  --style-word: #e1e1e6;
-  --section: #ffff;
-  --noSelect: #c4c4cc;
+  --style-word: #121218;
+  --section: #706a6a;
+  --noSelect: #1c1c2b;
 }
 
 .navigation {
   margin: 7.2rem 4rem;
+  background-color: aqua;
+  padding: 4rem;
 }
 .navigation nav {
   cursor: pointer;
   display: flex;
-  gap: 3.2rem;
+  gap: 72rem;
 }
 
 .navigation nav a {

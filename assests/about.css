@@ -1,0 +1,8 @@
+@import url(./style.css);
+.fit-image {
+  width: 5%;
+  height: 5%;
+  object-fit: cover; /* Cobre todo o contêiner mantendo a proporção */
+
+  margin-left: 3%;
+}
